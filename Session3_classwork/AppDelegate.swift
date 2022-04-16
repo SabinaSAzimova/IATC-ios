@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Session2_classwork
+//  Session3_classwork
 //
 //  Created by Sabina Azimova on 16.04.22.
 //
