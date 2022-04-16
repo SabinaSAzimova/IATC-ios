@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		318CB42A280AB173003379FC /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
 		318CB42C280AB1AD003379FC /* CarRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarRepository.swift; sourceTree = "<group>"; };
-		3191FA65280A977200D9F51D /* Session1_classwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Session1_classwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3191FA65280A977200D9F51D /* Session2_classwork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Session2_classwork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3191FA68280A977200D9F51D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3191FA6C280A977200D9F51D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3191FA71280A977B00D9F51D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		3191FA5C280A977100D9F51D = {
 			isa = PBXGroup;
 			children = (
-				3191FA67280A977200D9F51D /* Session1_classwork */,
+				3191FA67280A977200D9F51D /* Session2_classwork */,
 				3191FA66280A977200D9F51D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		3191FA66280A977200D9F51D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3191FA65280A977200D9F51D /* Session1_classwork.app */,
+				3191FA65280A977200D9F51D /* Session2_classwork.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3191FA67280A977200D9F51D /* Session1_classwork */ = {
+		3191FA67280A977200D9F51D /* Session2_classwork */ = {
 			isa = PBXGroup;
 			children = (
 				3191FA68280A977200D9F51D /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				318CB42A280AB173003379FC /* MainViewModel.swift */,
 				318CB42C280AB1AD003379FC /* CarRepository.swift */,
 			);
-			path = Session1_classwork;
+			path = Session2_classwork;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3191FA64280A977100D9F51D /* Session1_classwork */ = {
+		3191FA64280A977100D9F51D /* Session2_classwork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3191FA79280A977B00D9F51D /* Build configuration list for PBXNativeTarget "Session1_classwork" */;
+			buildConfigurationList = 3191FA79280A977B00D9F51D /* Build configuration list for PBXNativeTarget "Session2_classwork" */;
 			buildPhases = (
 				3191FA61280A977100D9F51D /* Sources */,
 				3191FA62280A977100D9F51D /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Session1_classwork;
+			name = Session2_classwork;
 			productName = Session1_classwork;
-			productReference = 3191FA65280A977200D9F51D /* Session1_classwork.app */;
+			productReference = 3191FA65280A977200D9F51D /* Session2_classwork.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3191FA60280A977100D9F51D /* Build configuration list for PBXProject "Session1_classwork" */;
+			buildConfigurationList = 3191FA60280A977100D9F51D /* Build configuration list for PBXProject "Session2_classwork" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3191FA64280A977100D9F51D /* Session1_classwork */,
+				3191FA64280A977100D9F51D /* Session2_classwork */,
 			);
 		};
 /* End PBXProject section */
@@ -282,8 +282,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Session1_classwork/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Session1;
+				INFOPLIST_FILE = Session2_classwork/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Session2;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -294,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "az.edu.iatc.Session1-classwork";
+				PRODUCT_BUNDLE_IDENTIFIER = "az.edu.iatc.Session2-classwork";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,8 +310,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Session1_classwork/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Session1;
+				INFOPLIST_FILE = Session2_classwork/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Session2;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
@@ -322,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "az.edu.iatc.Session1-classwork";
+				PRODUCT_BUNDLE_IDENTIFIER = "az.edu.iatc.Session2-classwork";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3191FA60280A977100D9F51D /* Build configuration list for PBXProject "Session1_classwork" */ = {
+		3191FA60280A977100D9F51D /* Build configuration list for PBXProject "Session2_classwork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3191FA77280A977B00D9F51D /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3191FA79280A977B00D9F51D /* Build configuration list for PBXNativeTarget "Session1_classwork" */ = {
+		3191FA79280A977B00D9F51D /* Build configuration list for PBXNativeTarget "Session2_classwork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3191FA7A280A977B00D9F51D /* Debug */,

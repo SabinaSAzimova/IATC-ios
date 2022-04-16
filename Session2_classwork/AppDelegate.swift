@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Session1_classwork
+//  Session2_classwork
 //
 //  Created by Sabina Azimova on 16.04.22.
 //
@@ -9,10 +9,10 @@ import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-   
+    
     var window: UIWindow?
 
-       func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
            
            // Override point for customization after application launch.
            
@@ -22,6 +22,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
            self.window?.makeKeyAndVisible()
            
            return true
-       }
+        }
 }
 

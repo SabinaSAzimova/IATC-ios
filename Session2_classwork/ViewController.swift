@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Session1_classwork
+//  Session2_classwork
 //
 //  Created by Sabina Azimova on 16.04.22.
 //
